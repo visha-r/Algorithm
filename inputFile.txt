@@ -2,9 +2,9 @@ c This is the input file to 27-node disjoint set.
 c The total number of arcs generated is 27572 for
 c the total nodes of 8333 as there should be an arc 
 c only if the i/j is of the form 2α3β
-c maximum number of nodes covered is 235
+c maximum number of nodes covered is 255
 c Problem line (nodes, links)
-p min 8334 27576
+p min 8335 27576
 c source
 n 1 26
 c sink
